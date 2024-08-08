@@ -92,7 +92,7 @@
       "name": "extension-androidtools",
       "type": "git",
       "dir": null,
-      "ref": "git",
+      "ref": "main",
       "url": "https://github.com/longge90/extension-androidtools.git"
     }
   ]
